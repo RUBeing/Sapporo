@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+  margin: 0px;
+  color: #644634;
+  background-color: #f0eadf;
+}
+
+h1, h2, h3 { 
+  color: #3d2b1f;
+  font-weight: 700;
+}
+
+.cafe-navbar {
+  background-color: #3d2b1f;
+}
+
+.cafe-navbar .navbar-brand {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.cafe-navbar .nav-link {
+  font-weight: 600;
+}
+
+.cafe-navbar .nav-link:hover {
+  color: #e0a458 !important;
+}
